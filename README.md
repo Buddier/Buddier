@@ -11,7 +11,7 @@
 📫 How to reach me: Expectatives#1157 (Discord)
   
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/598287962576519179.png" />
+  <img src="https://discord.c99.nl/widget/theme-1/598287962576519179.png" />
 </p>
 
 ----------------------------------------------
