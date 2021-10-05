@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  
+### Hi there, I'm Expectatives 👋
 
-<!--
-**Expectatives/Expectatives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Faith Community (Development Team)
+🌱 I’m currently learning more about java
 
-Here are some ideas to get you started:
+----------------------------------------------
+### Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: Expectatives#1157 (Discord)
+  
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/598287962576519179.png" />
+</p>
+
+----------------------------------------------
+### GitHub Stats
+![Expectatives's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expectatives&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expectatives&theme=tokyonight)](https://github.com/Expectatives)
+
+----------------------------------------------
+### Some repositories
+
+[![TabAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=TabAPI&theme=algolia)](https://github.com/Expectatives/TabAPI)  [![ViperElevators Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=ViperElevators&theme=algolia)](https://github.com/Expectatives/ViperElevators)
