@@ -2,8 +2,8 @@
   
 ### Hi there, I'm [Expectatives](https://expectatives.ga) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🔭 I’m currently working on Faith Community (Development Team)
-🌱 I’m currently learning more about java
+  🔭 I’m currently working on Faith Community (Development Team)
+  🌱 I’m currently learning more about java
 
 ----------------------------------------------
 ### Contact Information
