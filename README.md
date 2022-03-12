@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=%F0%9F%91%8B++Hi+there%2C+I'm+Expectatives)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&lines=++Hi+there%2C+I'm+Expectatives+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ----------------------------------------------
 ### Contact Information
