@@ -1,7 +1,7 @@
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Expectatives)](https://expectatives.ga)
-  
+
 ----------------------------------------------
 ### Contact Information
 
@@ -21,3 +21,4 @@
 [![Discord.js v13 Example Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=Discord.js-v13-Example&theme=algolia)](https://github.com/Expectatives/Discord.js-v13-Example)  
 [![ViperElevators Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=ViperElevators&theme=algolia)](https://github.com/Expectatives/ViperElevators)
   [![TabAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=TabAPI&theme=algolia)](https://github.com/Expectatives/TabAPI)
+</div>
