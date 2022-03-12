@@ -1,5 +1,7 @@
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Expectatives)](https://expectatives.ga)
+  
 ----------------------------------------------
 ### Contact Information
 
