@@ -1,10 +1,5 @@
 <div align="center">
-  
-### Hi there, I'm [Expectatives](https://expectatives.ga) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-  🔭 I’m currently working on Faith Community (Development Team)
-  🌱 I’m currently learning more about java
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Expectatives)](https://expectatives.ga)
 ----------------------------------------------
 ### Contact Information
 
