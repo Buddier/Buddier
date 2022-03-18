@@ -7,8 +7,8 @@
 </h1>
 
 ### Contact Information
-📫 How to reach me: Expectatives#1157 (Discord)
-  
+[![Discord](https://img.shields.io/badge/Discord-Expectatives%231157-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/faithcommunity)
+
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/598287962576519179" />
 </p>
