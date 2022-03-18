@@ -14,7 +14,7 @@
 </p>
 
 ### GitHub Stats
-![Expectatives's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expectatives&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expectatives&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives)
+![Expectatives's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expectatives&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)  [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=Expectatives&theme=react&border=ff9c19&hide_border=true)](https://github.com/Expectatives)
 
 ### Some repositories
 [![Discord.js v13 Example Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=Discord.js-v13-Example&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/Discord.js-v13-Example)
