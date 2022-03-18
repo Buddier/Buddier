@@ -19,6 +19,6 @@
 ### Some repositories
 [![Discord.js v13 Example Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=Discord.js-v13-Example&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/Discord.js-v13-Example)
 [![Ticket Bot Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=Ticket-bot&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/Ticket-bot)
-[![ViperElevators Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/ViperElevators)
+[![ViperElevators Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=ViperElevators&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/ViperElevators)
 [![TabAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=Expectatives&repo=TabAPI&show_icons=true&theme=react&border_color=ff9c19&hide_border=true)](https://github.com/Expectatives/TabAPI)
 </div>
